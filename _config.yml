@@ -1,0 +1,6 @@
+title: FlyTech Engineering Blog
+description: Building production AI agents — lessons from the trenches
+theme: minima
+baseurl: "/blog"
+url: "https://fly-tech-solutions.github.io"
+markdown: kramdown
