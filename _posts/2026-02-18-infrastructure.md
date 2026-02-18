@@ -9,8 +9,8 @@ date: 2026-02-18
 *By Ron @ FlyTech | February 18, 2026*
 
 **Series Navigation:**
-- [Part 1: Building a Production AI Agent — Lessons from the Trenches](blog-post-1-building-ai-agent.md)
-- [Part 2: Fixing WhatsApp Baileys RC9 — Device Pairing & Auth Patches](blog-post-2-baileys-patches.md)
+- [Part 1: Building a Production AI Agent — Lessons from the Trenches]({% post_url 2026-02-18-building-ai-agent %})
+- [Part 2: Fixing WhatsApp Baileys RC9 — Device Pairing & Auth Patches]({% post_url 2026-02-18-baileys-patches %})
 - **Part 3: Running an AI Agent 24/7** (this post)
 
 ---

@@ -9,9 +9,9 @@ date: 2026-02-18
 *By Ron @ FlyTech | February 18, 2026*
 
 **Series Navigation:**
-- [Part 1: Building a Production AI Agent — Lessons from the Trenches](blog-post-1-building-ai-agent.md)
+- [Part 1: Building a Production AI Agent — Lessons from the Trenches]({% post_url 2026-02-18-building-ai-agent %})
 - **Part 2: Fixing WhatsApp Baileys RC9** (this post)
-- [Part 3: Running an AI Agent 24/7 — Infrastructure & Operations](blog-post-3-infrastructure.md)
+- [Part 3: Running an AI Agent 24/7 — Infrastructure & Operations]({% post_url 2026-02-18-infrastructure %})
 
 ---
 
@@ -1044,7 +1044,7 @@ The technical problems can be solved, but the business problems cannot. Plan acc
 
 ---
 
-**Next in this series**: [Part 3: Running an AI Agent 24/7 — Infrastructure & Operations](blog-post-3-infrastructure.md), where I cover the operational realities of keeping an AI agent running reliably in production.
+**Next in this series**: [Part 3: Running an AI Agent 24/7 — Infrastructure & Operations]({% post_url 2026-02-18-infrastructure %}), where I cover the operational realities of keeping an AI agent running reliably in production.
 
 **Questions about the fixes?** The complete patch set and diagnostic tools are available in the GitHub repository. If you find additional issues or have improvements, PRs are welcome.
 

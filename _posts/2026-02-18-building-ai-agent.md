@@ -10,8 +10,8 @@ date: 2026-02-18
 
 **Series Navigation:**
 - **Part 1: Building a Production AI Agent** (this post)
-- [Part 2: Fixing WhatsApp Baileys RC9 — Device Pairing & Auth Patches](blog-post-2-baileys-patches.md)
-- [Part 3: Running an AI Agent 24/7 — Infrastructure & Operations](blog-post-3-infrastructure.md)
+- [Part 2: Fixing WhatsApp Baileys RC9 — Device Pairing & Auth Patches]({% post_url 2026-02-18-baileys-patches %})
+- [Part 3: Running an AI Agent 24/7 — Infrastructure & Operations]({% post_url 2026-02-18-infrastructure %})
 
 ---
 
@@ -730,9 +730,9 @@ Most importantly: **ship early, but plan for scale**. The difference between a d
 
 ---
 
-**Next in this series:** [Part 2: Fixing WhatsApp Baileys RC9 — Device Pairing & Auth Patches](blog-post-2-baileys-patches.md), where I dive deep into the technical details of the WhatsApp authentication fixes that started this whole journey.
+**Next in this series:** [Part 2: Fixing WhatsApp Baileys RC9 — Device Pairing & Auth Patches]({% post_url 2026-02-18-baileys-patches %}), where I dive deep into the technical details of the WhatsApp authentication fixes that started this whole journey.
 
-**Want to build something similar?** The full architecture documentation and code examples are available in our [DR Document](RON-DR-DOCUMENT.md). The biggest lesson: every production AI system is ultimately a distributed systems problem. Plan accordingly.
+**Want to build something similar?** The full architecture documentation and code examples are available in our [DR Document](#). The biggest lesson: every production AI system is ultimately a distributed systems problem. Plan accordingly.
 
 **Questions or feedback?** I'm always learning from other AI agent implementations. Share your experiences and challenges — the agent community is stronger when we learn from each other's successes and failures.
 
